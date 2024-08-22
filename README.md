@@ -4,8 +4,10 @@ A web clone of Tinder using ReactJS and firebase.
 
 ## Home Page
 
+Swipe right or left and like or dislike!
+
 ![Home page](image-2.png)
-Swipe right or left to like or dislike
+
 
 ## Chat Screen
 User interface to chat with your connections!
@@ -14,7 +16,6 @@ User interface to chat with your connections!
 
 ![Chat Screen](image-4.png)
 
-User
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
