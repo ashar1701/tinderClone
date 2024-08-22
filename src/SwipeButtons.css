@@ -1,0 +1,34 @@
+.swipeButtons{
+    position: fixed;
+    bottom: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;  /*this will space the buttons evenly along the x axis*/
+}
+
+.swipeButtons .MuiIconButton-root{   /*.MuiIconButton-root is a class from materialUI*/
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+.swipeButtons__repeat{
+    padding: 1.5vw;
+    color: #f5b748;
+}
+.swipeButtons__left{
+    padding: 1.5vw;
+    color: #ec5e6f;
+}
+.swipeButtons__star{
+    padding: 1.5vw;
+    color: #62b4f9;
+}
+.swipeButtons__right{
+    padding: 1.5vw;
+    color: #76e541;
+}
+.swipeButtons__lightning{
+    padding: 1.5vw;
+    color: #f5002f;
+}
+
+

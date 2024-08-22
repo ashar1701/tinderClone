@@ -1,0 +1,25 @@
+.chat{
+    display:flex;     /*all the divs under chat class in a flex box*/
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;  /*puts a padding of 20 px between left side of the screen and profile pic*/
+    height: 70px;   /*height of each chat is 70 px*/
+    border-bottom: 1px solid #fafafa;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+.chat__details{
+    flex:1;  /*this means that the element takes up the remainig space*/
+
+}
+.chat__details>p{    /*sets color for the p tag directly under chat details*/
+    color:gray;
+}
+.chat__timestamp{
+    color:lightgray;
+}
+.chat__image{
+    margin-right: 20px;
+}
