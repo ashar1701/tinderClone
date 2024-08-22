@@ -1,3 +1,7 @@
+# Tinder clone web app
+
+A web clone of Tinder using ReactJS and firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

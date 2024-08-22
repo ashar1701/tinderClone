@@ -15,19 +15,19 @@ function Chats(){
         name="Mary"
         message="Heyy!"
         timestamp="35 minutes ago"
-        profilePic="https://img.freepik.com/premium-photo/passport-photo-portrait-asian-smiling-woman_264197-7671.jpg"/>
+        profilePic=""/>
 
         <Chat 
         name="Emily"
         message="What's up"
         timestamp="55 minutes ago"
-        profilePic="https://img.freepik.com/premium-photo/passport-photo-portrait-asian-smiling-woman_264197-7671.jpg"/>
+        profilePic=""/>
 
         <Chat 
         name="Natasha"
         message="How you doing"
         timestamp="3 days ago"
-        profilePic="https://img.freepik.com/premium-photo/passport-photo-portrait-asian-smiling-woman_264197-7671.jpg"/>
+        profilePic=""/>
         
         </div>
     )
